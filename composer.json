@@ -12,7 +12,8 @@
         "laravel/horizon": "^5.7",
         "laravel/nova": "*",
         "laravel/tinker": "^2.5",
-        "nova-kit/helpers": "^0.3.0"
+        "nova-kit/helpers": "^0.3.0",
+        "predis/predis": "^1.1"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
